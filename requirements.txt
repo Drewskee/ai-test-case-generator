@@ -1,0 +1,5 @@
+# Core dependencies
+openai>=1.0.0          # OpenAI API client for AI integration
+python-dotenv>=1.0.0   # Load environment variables from .env file
+click>=8.0.0           # Create command-line interfaces easily
+colorama>=0.4.6        # Add colors to terminal output
