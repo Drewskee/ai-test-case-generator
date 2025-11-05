@@ -1,0 +1,14 @@
+# Sample User Stories for Testing
+# Each line is a separate user story
+# Use with: python cli.py batch examples/sample_stories.txt
+
+As a user, I want to login with email and password so that I can access my personalized dashboard
+As a customer, I want to add items to my shopping cart so that I can purchase multiple products at once
+As a user, I want to reset my password via email so that I can regain access if I forget it
+As an admin, I want to export user data to CSV so that I can analyze it in Excel
+As a user, I want to upload profile pictures up to 5MB so that I can personalize my account
+As a customer, I want to save items to a wishlist so that I can purchase them later
+As a user, I want to search products by name, category, or price range so that I can find items quickly
+As a user, I want to receive email notifications when my order ships so that I know when to expect delivery
+As an admin, I want to manage user permissions so that I can control who has access to what features
+As a customer, I want to apply discount codes at checkout so that I can save money on purchases
